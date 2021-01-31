@@ -1,13 +1,13 @@
 ## Artyom Kamenchuk
 
-#### Contacts for communication:
+### Contacts for communication:
 
-kamenchuk.artyom@tut.by
-_+375-33-3040926_
+- kamenchuk.artyom@tut.by
+- _+375-33-3040926_
 
-#### Software projects:
+### Software projects:
 
-##### jsPlantsDatabase:
+#### jsPlantsDatabase:
 
 _https://github.com/KorvinAtreides/jsPlantsDatabase_
 
@@ -15,7 +15,7 @@ _https://github.com/KorvinAtreides/jsPlantsDatabase_
 - Learned grids and emulated backend with JSON-Server
 - Challenges included transformation of information for get- and post-API
 
-##### TransportSchedule:
+#### TransportSchedule:
 
 _https://github.com/KorvinAtreides/TransportSchedule_
 
@@ -23,7 +23,7 @@ _https://github.com/KorvinAtreides/TransportSchedule_
 - Learned using API for open-access web-sites _(e. g. weather forecast)_ and webpack technologies
 - Challenges included creation own server of CORS-anywhere based on Heroku, creating and installation of webpack project
 
-##### CiberMarket:
+#### CiberMarket:
 
 _https://github.com/KorvinAtreides/CiberMarket_
 
@@ -31,12 +31,12 @@ _https://github.com/KorvinAtreides/CiberMarket_
 - Emulated backend with JSON-Server
 - Challenges included creating and installation of webpack for multipage project
 
-#### Technical skills:
+### Technical skills:
 
-HTML5, CSS3, Javascript, Git, Webpack, ECMAScript (es6)
-Have an experience with WordPress, JQuery, React JS, Wolfram Mathematica, MATLAB
+- HTML5, CSS3, Javascript, Git, Webpack, ECMAScript (es6)
+- Have an experience with WordPress, JQuery, React JS, Wolfram Mathematica, MATLAB
 
-#### Code examples:
+### Code examples:
 
 ```
 const allCalculation = {
@@ -78,27 +78,28 @@ const allCalculation = {
 };
 ```
 
-#### Employment:
+### Employment:
 
-##### OR-Media
+#### OR-Media
 
 _**trainee of web-developer** October 2019 - March 2020_
 
 As a trainee developer I learned to convert PSDtoHTML, worked on JavaScript (including React) and was involved in the creation of a tourist agency web-site on WordPress.
 
-##### Institute of Physics NASB
+#### Institute of Physics NASB
 
 _**trainee of junior researcher** November 2018 - July 2020_
+
 _**junior researcher** August 2020 - present_
 
 Responsible for the development of bioinspired photovoltaic systems based on organic pigments. As a junior researcher, my role includes: work on scientific projects including chemical synthesis of samples, optical measurements, paper writing.
 
-#### Education:
+### Education:
 
 - Belarusian State University _Minsk/Belarus_ 01.09.2014 – 30.06.2019 **BS (Physics)**
 - Researchers Training Institute NASB _Minsk/Belarus_ 01.09.2019 – 30.06.2020 **MS**
 - RS-School _online_ 30.01.2021 – present
 
-#### English level:
+### English level:
 
 B1 according to tests of _Streamline_. Have an experience in a multilingual team. Took part in some foreign conferences. Conducting correspondence in English with other partners of our projects.
