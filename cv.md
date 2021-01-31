@@ -98,7 +98,7 @@ Responsible for the development of bioinspired photovoltaic systems based on org
 
 - Belarusian State University _Minsk/Belarus_ 01.09.2014 – 30.06.2019 **BS (Physics)**
 - Researchers Training Institute NASB _Minsk/Belarus_ 01.09.2019 – 30.06.2020 **MS**
-- RS-School _online_ 30.01.2021 – present
+- RS-School **JS/FE 2021Q1** _online_ 30.01.2021 – present
 
 ### English level:
 
