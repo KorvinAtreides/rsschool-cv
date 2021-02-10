@@ -1,0 +1,52 @@
+.center {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+h1,
+h2 {
+  text-align: center;
+}
+.personal {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+.personal .avatar {
+  height: 150px;
+}
+.personal .ul-contact {
+  display: inline;
+  list-style-type: none;
+}
+.personal .ul-contact > li {
+  margin-top: 5px;
+}
+.employment .position {
+  display: inline-block;
+  width: 190px;
+  margin-right: 10px;
+}
+.grid-container {
+  display: grid;
+  grid: repeat(4, 60px) / repeat(5, 110px);
+  grid-gap: 3px;
+  justify-content: center;
+}
+.grid-container .grid-item {
+  border: 1px solid black;
+}
+footer {
+  padding: 20px;
+  background-color: rgba(0,255,0,.2);
+}
+footer a{
+  font-size: 16px;
+  font-weight: 600;
+  color: black; 
+}
+footer img{
+  width: 125px;
+}
